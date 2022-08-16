@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13715528218
+- 👋 Hi, I’m Jimmy JM Zhong
 - 👀 I’m interested in Geoscience, especially Geochronology
 - 🌱 I’m currently learning Pyhthon, R, but I am the freshman
 - 💞️ I’m looking to collaborate on ...
